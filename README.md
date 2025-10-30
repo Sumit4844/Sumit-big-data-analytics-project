@@ -10,7 +10,7 @@
 
 <h2>📁 Files Included</h2>
 <ul>
-  <li><code>hive code.docx/code>:Notebook with code and charts</li>
+  <li><code>hive code.docx</code>: Notebook with code and charts</li>
   <li><code>bigdata.pdf</code>: Final exported report for submission</li>
 </ul>
 
